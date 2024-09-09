@@ -1,6 +1,6 @@
 ## 👋 Hi there, I’m Ezequiel Bellver!
 
-I'm a **Software Engineering Student** from Argentina, I'm a student at **ITBA** currently wrapping up my degree at **FHTW**.I'm passionate about building innovative software solutions, learning new technologies, and exploring the exciting fields of **AI** and **computer vision**. 🚀
+I'm a **Software Engineering Student** from Argentina, I'm a student at **ITBA** currently wrapping up my degree at **FHTW**. I'm passionate about building innovative software solutions, learning new technologies, and exploring the exciting fields of **AI** and **computer vision**. 🚀
 
 ### 🔧 What I Do:
 - **Backend Development**: Java, Python, C, C#
